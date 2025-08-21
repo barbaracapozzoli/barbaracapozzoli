@@ -26,5 +26,7 @@
 
 ### 🚀 Tecnologias que uso:
 
-<img src="[https://cdn-icons-png.flaticon.com/512/919/919825.png](https://www.flaticon.com/free-icon/c-sharp_6132221)" alt="C#" width="30"/>
-<img src="[https://cdn-icons-png.flaticon.com/512/919/919825.png](https://cdn-icons-png.flaticon.com/128/5968/5968350.png)" alt="Python" width="30"/>
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/128/381/381704.png" alt="C#" width="30"/>
+<img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" alt="Python" width="30"/>
+</div>
