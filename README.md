@@ -1,9 +1,9 @@
 ## Olá, eu sou a Bárbara Capozzoli! 👋  
 
 💻 Atualmente sou estudante do *1º semestre de Análise e Desenvolvimento de Sistemas na FIAP*  
-🎓 Primeira Graduação *Bacharelado em Administração de Empresas pela USJT*  
+🎓 Primeira Graduação - *Bacharelado em Administração de Empresas pela USJT*  
 🏦 Atuo como *Gerente de Relacionamento Premium no Itaú Personnalité*  
-🚀 Em transição de carreira para a área de *tecnologia, apaixonada por **códigos e programação*  
+🚀 Em transição de carreira para a área de *tecnologia*, apaixonada por *códigos e programação*  
 🌱 Em busca da minha *primeira oportunidade de estágio em tecnologia*  
 
 ---
@@ -19,8 +19,8 @@
 - Fundamentos de *banco de dados*  
 
 ### 📫 Como me encontrar:
-- [LinkedIn](www.linkedin.com/in/barbara-capozzoli)  
-- [E-mail](barbaracapozzoli4@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/barbara-capozzoli)  
+- [E-mail](mailto:barbaracapozzoli4@gmail.com)  
 
 ✨ “Transformando experiência em relacionamento humano em soluções tecnológicas.”
 
