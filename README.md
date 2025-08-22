@@ -29,6 +29,7 @@
 <div style="text-align: left;">
 <img src="https://cdn-icons-png.flaticon.com/128/381/381704.png" alt="C#" width="30"/>
 <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" alt="Python" width="30"/>
+<img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="Javascript" width="30"/>
 </div>
 
 
