@@ -34,6 +34,5 @@
 
 ## 📊 Minhas estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracapozzoli&layout=compact&theme=rose_pine)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracapozzoli&layout=compact&theme=rose_pine&hide=jupyter%20notebook,html,css)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barbaracapozzoli&show_icons=true&theme=rose_pine)
