@@ -11,7 +11,7 @@
 ### 🔭 O que estou fazendo atualmente:
 - Estudando Pyhton através do conteúdo da faculdade
 - Estudando *C#* onde concluí o curso de *lógica de programação* e iniciei *POO*
-- Desenvolvendo projetos pessoais para praticar e evoluir  
+- Estudando attravés do Beecrowd para praticar  
 
 ### 🌱 Aprendendo sobre:
 - *Programação orientada a objetos (POO)*  
